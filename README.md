@@ -238,3 +238,6 @@ This repository serves as the official landing page for Sam & Max: Culture Shock
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: Culture Shock today!**
+
+---
+**Last updated:** 2026-09-11 22:19:26 UTC
