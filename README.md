@@ -240,4 +240,4 @@ This repository serves as the official landing page for Sam & Max: Culture Shock
 **Get the most recent version of Sam & Max: Culture Shock today!**
 
 ---
-**Last updated:** 2026-10-07 06:56:38 UTC
+**Last updated:** 2026-10-07 20:27:15 UTC
